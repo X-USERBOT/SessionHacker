@@ -1,0 +1,15 @@
+{
+    "name": "SESSION HACK BOT",
+    "description": "A bot CAN DO ANYTHING",
+    "logo": "",
+    "keywords": [
+        "TELETHON"
+    ],
+    "website": "",
+    "success_url": "https://telegram.dog/P_4_PEEYUSH",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH"
