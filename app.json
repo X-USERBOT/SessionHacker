@@ -1,11 +1,13 @@
 {
     "name": "SESSION HACK BOT",
     "description": "A bot CAN DO ANYTHING",
-    "logo": "",
+    "logo": "https://images.app.goo.gl/79q1QbqBymq7oKZ37",
     "keywords": [
-        "TELETHON"
+        "TELETHON",
+        "session hack"
+        
     ],
-    "website": "",
+    "website": "https://sharkmods.xyz",
     "success_url": "https://telegram.dog/P_4_PEEYUSH",
     "env": {
         "BOT_TOKEN": {
